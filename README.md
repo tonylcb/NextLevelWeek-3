@@ -12,7 +12,7 @@ Considerando que foi meu primeiro contato com o desenvolvimento de uma aplicaç�
 * CSS3
 * Javascript
 * Node.js
-## ✔️ Desafio
+## ⌛ Desafio
 O educador da Rocketseat Mayk Brito, na última aula, deixou um desafio de descobrir um método mais simplificado da instrução `if` com o **operador condicional (ternário)** e com algumas pesquisas, descobri o método e abaixo segue a substituição:
 ```
 if(orphanage.open_on_weekends == "0") {
@@ -60,5 +60,5 @@ Os códigos adicionais em front-end ficou:
       margin-bottom: 1rem;
   }
 ```
-## Conclusão
+## ✔️Conclusão
 A semana NLW foi extremamente proveitosa, otimizando meus estudos focados em Front-end, adquirindo conhecimentos mais a fundo de HTML, CSS, Javascript, Node.js dentre outras extensões e ferramentas durante o curso. A ideia da aplicação é sensacional, o layout ficou com um design incrível, bem prático e funcional e todo o esforço dessa semana valeu a pena. O professor Mayk Brito tem uma ótima metodologia de ensino e espero evoluir ainda mais com os próximos cursos!
