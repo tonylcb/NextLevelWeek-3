@@ -1,9 +1,20 @@
 /* map */
-.map-container {
+  .map-container {
     margin-top: 6.4rem;
     background: #e6f7fb;
     border: 1px solid #dde3f0;
     border-radius: 2rem;
+  }
+
+  .input-adress input {
+      width: 70%;
+      background: #f5f8fa;
+      border: 1px dashed #0089a5;
+      border-radius: 2rem;
+      color: #5c8599;
+      outline: none;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
   }
   
   #mapid { 
@@ -12,16 +23,22 @@
   }
   
   .map-container footer {
-    padding: 2rem 0;
+    padding: 1rem 0;
     text-align: center;
+    line-height:1.5;
   }
   
-  .map-container footer a {
+  .map-container footer p {
     color: #0089a5;
     text-decoration: none;
     font-weight: 700;
   }
   
+  .map-container footer input{
+    padding: .5rem 0;
+    text-align: center;
+    line-height:1.5;
+  }
   .map-container .leaflet-container {
     border-bottom: 1px solid #dde3f0;
     border-radius: 2rem;
